@@ -1,0 +1,76 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18303508992@s.whatsapp.net',
+    fromMe: false,
+    id: '3A33E94FA17DB4303BFF',
+    participant: undefined
+  },
+  messageTimestamp: 1703449229,
+  pushName: 'Ines Hans⚡️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '18303508992'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8808997f-8e4d-468e-8715-894df90d4030',
+  keyword: 'key_29f6aa31-36d7-423e-bbe5-4917002fb0a0',
+  answer: 'Buenas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9f2f147f989d0e11f17bf55c8683b734'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9be8af91-847a-43a4-9c51-5614e69ec474',
+  keyword: 'ans_8808997f-8e4d-468e-8715-894df90d4030',
+  answer: 'En que puedo ayudarte el dia de hoy?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c957b4977b4685298ae901b5899b79d6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18303508992@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEA280038B73AE60E95',
+    participant: undefined
+  },
+  messageTimestamp: 1703449236,
+  pushName: 'Ines Hans⚡️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuantos países hay en el mundo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuantos países hay en el mundo?',
+  from: '18303508992'
+}

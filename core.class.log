@@ -1,0 +1,168 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18303508992@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3850791F379970984D',
+    participant: undefined
+  },
+  messageTimestamp: 1703544517,
+  pushName: 'Ines Hans⚡️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '18303508992'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f6708388-7821-4ea6-82d3-8ef5099223bc',
+  keyword: 'key_0ba94cac-2356-448a-ad90-4abd5e74ab15',
+  answer: 'Buenas Bienvenido a Brauyni Store',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f514c13f31f25ab897fb91ae8fb688b1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_be423c07-289f-466c-9b50-1d34b8619972',
+  keyword: 'ans_f6708388-7821-4ea6-82d3-8ef5099223bc',
+  answer: '¿Como podemos ayudarte?\n\nMENU',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '32c5c53ee495f4d3e64b32779828ade5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18303508992@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1F9DAA3F6F55A088D6',
+    participant: undefined
+  },
+  messageTimestamp: 1703544518,
+  pushName: 'Ines Hans⚡️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '18303508992'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13bee0d4-ff0e-4ae4-8b8f-84ea910b6359',
+  keyword: 'key_e38b98b6-eb50-4836-8522-fcac1ee66609',
+  answer: 'Ahora te paso el menu',
+  options: {
+    media: 'https://tgifridays.hn/wp-content/uploads/2023/06/Menu-Big-af-Burger-Digital132023.pdf',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a1d1b60d7efa30b2550a9fbf4f0f7829'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a14242b6-ef2c-4890-9290-aaf86d8765c0',
+  keyword: 'ans_13bee0d4-ff0e-4ae4-8b8f-84ea910b6359',
+  answer: 'Quieres Ordenar Algo?\n*1* SI\n*2* NO',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd81c932186c08fa2b4ec3b356d8d819b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18303508992@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7E4B503014734232DE',
+    participant: undefined
+  },
+  messageTimestamp: 1703544521,
+  pushName: 'Ines Hans⚡️',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '18303508992'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b2f3cfbb-dd5f-4ae7-b668-9929d0e68597',
+  keyword: 'key_b5381051-de93-42d3-b622-c72cf579eeb3',
+  answer: 'Gracias por empezar una orden, por favor espera un momento. Te diré cuando esté lista.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '022083870899a0783b42caf6c2a52300'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3ee5fbc2-473d-4f8d-ba7b-33d562c0bceb',
+  keyword: 'ans_b2f3cfbb-dd5f-4ae7-b668-9929d0e68597',
+  answer: 'Gracias por la espera, por favor dime qué es lo que deseas ordenar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '854a71ad8621e5cb1ca73de0d15d04b1'
+}
